@@ -1,0 +1,2 @@
+echo "installing basic tools..." 
+sudo apt-get install vim git-core gnupg 
